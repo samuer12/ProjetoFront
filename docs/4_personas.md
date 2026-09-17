@@ -4,7 +4,7 @@
 
 ## Persona primária: João Batista
 
-![foto de rosto ilustrativa](imagens/homem.png)
+<img src="https://thispersonnotexist.org/downloadimage/Ac3RhdGljL21hbi9zZWVkNjY3MC5qcGVn" width="200px"/>
 
 | Campo | Descrição |
 | :---- | :---- |
