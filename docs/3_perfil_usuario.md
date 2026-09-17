@@ -4,8 +4,8 @@
 
 Os dados foram obtidos a partir dos participantes da pesquisa realizada pela equipe.
 
-* **Faixa etária:** [preencher com os dados coletados]
-* **Gênero:** [preencher]
+* **Faixa etária:** <img width="733" height="350" alt="image" src="https://github.com/user-attachments/assets/1e48078c-0657-44f8-ada8-f575afebe921" />
+* **Gênero:** <img width="720" height="352" alt="image" src="https://github.com/user-attachments/assets/0e442fa7-8382-4117-932d-ee485d11b331" />
 * **Escolaridade:** [preencher]
 * **Ocupação:** [preencher]
 * **Localização geográfica:** [preencher]
